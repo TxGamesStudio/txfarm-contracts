@@ -1,0 +1,346 @@
+[
+  {
+    "tier": 1,
+    "apple": 2,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 1,
+    "apple": 3,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 1,
+    "apple": 4,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 1,
+    "apple": 2,
+    "orange": 1,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 1,
+    "apple": 3,
+    "orange": 2,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 1,
+    "apple": 4,
+    "orange": 3,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 1,
+    "apple": 4,
+    "orange": 4,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 1,
+    "apple": 1,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 6,
+    "orange": 4,
+    "pumpkin": 2,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 4,
+    "orange": 2,
+    "pumpkin": 2,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 2,
+    "pumpkin": 1,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 2,
+    "pumpkin": 2,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 3,
+    "pumpkin": 2,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 4,
+    "pumpkin": 1,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 4,
+    "pumpkin": 2,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 1
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 1,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 4,
+    "orange": 0,
+    "pumpkin": 1,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 6,
+    "orange": 0,
+    "pumpkin": 1,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 1,
+    "egg": 0
+  },
+  {
+    "tier": 2,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 2,
+    "milk": 0,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 1,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 2,
+    "milk": 0,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 2,
+    "milk": 1,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 3,
+    "milk": 0,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 3,
+    "milk": 1,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 3,
+    "milk": 1,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 4,
+    "milk": 1,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 4,
+    "milk": 1,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 4,
+    "milk": 0,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 2,
+    "egg": 2
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 6,
+    "milk": 0,
+    "egg": 2
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 6,
+    "milk": 2,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 6,
+    "milk": 0,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 6,
+    "milk": 1,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 2
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 2,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 4,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 4,
+    "pumpkin": 0,
+    "milk": 1,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 6,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 1
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 6,
+    "pumpkin": 0,
+    "milk": 1,
+    "egg": 0
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 0,
+    "egg": 3
+  },
+  {
+    "tier": 3,
+    "apple": 0,
+    "orange": 0,
+    "pumpkin": 0,
+    "milk": 3,
+    "egg": 0
+  }
+]
